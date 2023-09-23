@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi there! Welcome to my GitHub profile!<br><br>I'm a passionate front-end developer with a strong focus on React.js and Next.js.<br>While my primary expertise lies in front-end development, I also have a solid understanding of backend technologies and React Native. I've dabbled in JavaScript backend frameworks and have gained experience in building server-side logic, API integrations, and handling data storage.<br>I'm always eager to collaborate and contribute to exciting projects. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or potential collaboration opportunities. Let's create amazing things together!<br><br>Happy coding! 🚀
+👋 I'm an enthusiastic front-end developer that specializes in React.js and Next.js.
+While my core area of experience is front-end programming, I am also well-versed in backend technologies like React Native. I've dabbled in JavaScript backend frameworks, gaining knowledge in server-side functionality, API integrations, and data storage.
+I'm always keen to participate on new and innovative projects. Please feel free to browse my repositories and contact me if you have any queries or would want to collaborate. Let's work together to make awesome things!<br><br>Happy coding! 🚀
 
 
 ## 🌐 Socials:
