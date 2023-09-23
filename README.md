@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 I'm an enthusiastic front-end developer that specializes in React.js and Next.js.
-While my core area of experience is front-end programming, I am also well-versed in backend technologies like React Native. I've dabbled in JavaScript backend frameworks, gaining knowledge in server-side functionality, API integrations, and data storage.
+While my core area of experience is front-end programming, I am also know about backend technologies and mobile development. I've dabbled in JavaScript backend frameworks, gaining knowledge in server-side functionality, API integrations, and data storage.
 I'm always keen to participate on new and innovative projects. Please feel free to browse my repositories and contact me if you have any queries or would want to collaborate. Let's work together to make awesome things!<br><br>Happy coding! 🚀
 
 
