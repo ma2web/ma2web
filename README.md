@@ -1,8 +1,7 @@
-# 💫 About Me:
-👋 I'm an enthusiastic front-end developer that specializes in React.js and Next.js.
+# 👤 About Me:
+A senior front-end developer with additional back-end coding experience. Have more than 10 years of coding experience and up to 3 years of leading web development projects, including gathering user requirements, writing code, creating mockups, and improving designs. Focused on producing clean, robust code with high security and optimization..
 While my core area of experience is front-end programming, I also know about backend technologies and native app development. I've dabbled in JavaScript backend frameworks, gaining knowledge of server-side functionality, API integrations, and data storage.
 I'm always eager to participate in new and innovative projects. Please feel free to browse my repositories and contact me if you have any queries or would like to collaborate. Let's work together to make awesome things!<br><br>Happy coding! 🚀
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ma2web) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ma2web) 
