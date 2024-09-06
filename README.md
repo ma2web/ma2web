@@ -1,7 +1,5 @@
-# 👤
 A senior front-end developer with additional back-end coding experience. Have more than 10 years of coding experience and up to 3 years of leading web development projects, including gathering user requirements, writing code, creating mockups, and improving designs. Focused on producing clean, robust code. While my core area of experience is front-end programming, I also know about backend technologies and native app development. I've dabbled in JavaScript backend frameworks, gaining knowledge of server-side functionality, API integrations, and data storage.
 
-## 💻 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -16,6 +14,4 @@ A senior front-end developer with additional back-end coding experience. Have mo
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 
-
-## 🏆 
 ![](https://github-profile-trophy.vercel.app/?username=ma2web&theme=flat)
