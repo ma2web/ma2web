@@ -1,4 +1,4 @@
-A senior front-end developer with additional back-end coding experience. writing code, creating mockups, and improving designs. While my core area of experience is front-end programming, I also know about backend technologies and native app development. I've dabbled in JavaScript backend frameworks, gaining knowledge of server-side functionality, API integrations, and data storage.
+A tech tools consumer. building web and mobile applications and have more than 12 years of coding experience and up to 4 years of leading web and mobile development projects, including gathering user requirements, writing code, creating mockups, and improving designs. Focused on producing clean, robust code with high security and optimization for production.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
